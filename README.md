@@ -14,4 +14,4 @@ print(repeat(s, n))
 eugene254-ship-it/eugene254-ship-it is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![giphy (1)](https://user-images.githubusercontent.com/72182017/174579880-5834c10f-2f6b-4ee2-a8e4-4d7db2de3882.gif)
+-![giphy (1)](https://user-images.githubusercontent.com/72182017/174579880-5834c10f-2f6b-4ee2-a8e4-4d7db2de3882.gif)
