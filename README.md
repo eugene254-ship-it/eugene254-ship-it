@@ -25,7 +25,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/eugene254-ship-it/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugene254-ship-it&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/eugene254-ship-it/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
