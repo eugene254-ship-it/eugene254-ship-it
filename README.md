@@ -17,7 +17,7 @@
 - 🌐 &nbsp; Blade | PHP | HTML | CSS | JavaScript | Node
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot 
+- 🖥 &nbsp; Game Development is next on my List
 
 <br>
 
