@@ -20,7 +20,7 @@
 - 🖥 &nbsp; Game Development is next on my List
 
 <br>
-(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Follow+the+white+rabbit.)
+
 
 
 <h3> 🤝🏻 Connect with Me </h3>
