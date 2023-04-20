@@ -1,5 +1,5 @@
 <h2> Hey there! I'm 254-ship-it. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72182017/233347558-f1e64237-5236-4b46-a9af-0643795470e6.gif" width="500"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/72182017/233348609-a555e3b2-e1ce-4303-8256-d2cb3ce907bc.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
