@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Javascript Application Development
+- 🔭 &nbsp; Javascript & Python 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; I dabble in open-source projects
 - 💼 &nbsp; Cross-Platform developer and web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in Cyber Security  .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles and NFTs
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+  
 
 <h3>🛠 Tech Stack</h3>
 
