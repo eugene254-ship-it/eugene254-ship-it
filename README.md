@@ -3,4 +3,6 @@
 
 <h3> 👨🏻‍💻 Do More Talk Less  </h3>
 
+Just projects
+
 
