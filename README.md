@@ -3,6 +3,6 @@
 
 <h3> 👨🏻‍💻 Just a normal developer  </h3>
 
-Just projects
+I hope someone out there believes in you.
 
 
