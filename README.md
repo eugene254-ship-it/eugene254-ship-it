@@ -4,4 +4,4 @@
 
 I hope someone out there believes in you.
 
-May the forks begin
+May the forks be with you
