@@ -4,6 +4,6 @@
 
 I hope someone out there believes in you.
 
-"For all those that have to fight for the respect that everyone else is given without question"
+
 
 I will fix my portfolio soon currently learning Data Engineering 
