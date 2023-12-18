@@ -4,6 +4,6 @@
 
 I hope someone out there believes in you.
 
-I dabble in high-level software
+sometimes when bored i dabble in high-level software
 
-I will fix my portfolio soon currently learning Data Engineering 
+but I will fix my portfolio soon currently learning Data Engineering 
