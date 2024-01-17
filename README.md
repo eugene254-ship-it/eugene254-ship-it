@@ -8,4 +8,4 @@ sometimes when bored i dabble in high-level software
 
 but I will fix my portfolio soon currently learning Data Engineering 
 
-Follow one organization and start collaborating in building Paycoo if you can, Thank you Wizards
+Please follow one organization and start collaborating in building Paycoo if you can, Thank you Wizards
