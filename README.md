@@ -6,7 +6,7 @@ I hope someone out there believes in you.
 
 "Any sufficiently advanced technology is indistinguishable from magic"
 
-we have a God who delights in impossibilities
+
 
 sometimes when bored i dabble in high-level software
 
