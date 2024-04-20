@@ -12,4 +12,3 @@ sometimes when bored i dabble in high-level software
 
 but I will fix my portfolio soon currently learning Data Engineering 
 
- Thank you Wizards
