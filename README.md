@@ -4,9 +4,7 @@
 
 I hope someone out there believes in you.
 
-"Any sufficiently advanced technology is indistinguishable from magic"
-
-
+Highly Advanced Tech
 
 sometimes when bored i dabble in high-level software
 
